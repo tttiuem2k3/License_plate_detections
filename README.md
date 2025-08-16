@@ -14,7 +14,7 @@ The system detects and reads license plates from both **images** and **videos** 
 - **Real-Time Detection**: Fast frame processing for surveillance.
 - **Multi-Format Support**: Handles different plate sizes, colors, orientations, and layouts.
 - **High Accuracy**: Works in varied lighting and weather conditions.
-- **Web Interface**: Built with **Streamlit**.
+
 
 ## 🛠️ System Architecture
 1. **Data Collection & Labeling** – Collected ~24k labeled images from RoboFlow.
@@ -25,7 +25,7 @@ The system detects and reads license plates from both **images** and **videos** 
 3. **License Plate Detection** – YOLOv8 detects plate regions (ROI).
 4. **Character Extraction** – PyTesseract OCR for text recognition.
 5. **API Integration** – RESTful API for plate recognition.
-6. **Web Deployment** – Streamlit-based interface.
+
 
 ## 📂 Dataset
 - **Training Set**: 21,173 images  
