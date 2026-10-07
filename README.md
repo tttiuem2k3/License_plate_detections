@@ -2,7 +2,10 @@
 
 > A computer-vision project for detecting license-plate regions and plate characters using **two YOLO models**, with a simple **Tkinter desktop demo** for image-based inference.
 
-<p align="center">\n  <img src="./docs/images/readme_overview.svg" width="100%" alt="Automatic License Plate Detection with YOLOv8 overview">\n</p>\n
+<p align="center">
+  <img src="./docs/images/readme_overview.svg" width="100%" alt="Automatic License Plate Detection with YOLOv8 overview">
+</p>
+
 ---
 
 ## 📌 Introduction
